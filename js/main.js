@@ -17,7 +17,7 @@ $(window).on('scroll', function () {
 
 
 $(document).ready(function(){
-
+  $('.carousel').carousel()
 // mobile_menu
 var menu = $('ul#navigation');
 if(menu.length){
