@@ -907,6 +907,9 @@ h3 {
   .header-area {
     padding-top: 0;
   }
+  .header-area .main-header-area {
+    background: #ffffff !important;
+  }
 }
 
 /* line 17, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
@@ -919,6 +922,7 @@ h3 {
   /* line 17, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
   .header-area .main-header-area {
     padding: 10px 0;
+    background: #ffffff;
   }
 }
 
@@ -1238,7 +1242,7 @@ h3 {
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
   background: rgba(255, 255, 255, 0.96);
-  background: #fff;
+  background: #00548d;
 }
 
 @media (max-width: 767px) {
