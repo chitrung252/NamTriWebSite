@@ -912,7 +912,7 @@ h3 {
 /* line 17, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area {
   padding: 7px 0;
-  background: #fff;
+  background: #00548d;
 }
 
 @media (max-width: 767px) {
@@ -1112,7 +1112,7 @@ h3 {
 
 /* line 158, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #596672;
+  color: #ffffff;
   font-size: 16px;
   text-transform: capitalize;
   font-weight: 400;
